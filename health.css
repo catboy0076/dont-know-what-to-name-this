@@ -1,5 +1,14 @@
 .inpakning {
   
-    height: 400%;
-    width: 400%;
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+}
+.div2 {
+    display: flex;
+    flex-direction: row;
+
 }
